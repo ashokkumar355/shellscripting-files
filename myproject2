@@ -1,0 +1,16 @@
+#!/bin/bash
+name=somepalliashok
+echo "this is a , ${name}"
+
+person1=ram
+person2=sai
+echo "${person1} hello ${person2}"
+echo "good morning ${person2} and very good morning ${person1}"
+echo "what are you doing ${person1} and i am good ${person2}"
+
+person1=$1
+person2=$2
+echo "${person1} hello ${person2}"
+echo "good morning ${person2} and very good morning ${person1}"
+echo "what are you doing ${person1} and i am good ${person2}"
+

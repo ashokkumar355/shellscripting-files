@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "enter first number:"
+read a
+echo
+echo "enter second number:"
+read b
+echo
+echo "this is a first number:${a}"
+echo "this is a second number:${b}"
+
+
