@@ -1,0 +1,11 @@
+#!/bin/bash
+#defining a function
+wish()
+{
+echo "Hello Friends .... Good Morning"
+}
+wish # calling a function
+wish
+wish
+wish
+wish

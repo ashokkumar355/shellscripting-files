@@ -1,0 +1,12 @@
+#!/bin/bash
+f1()
+{
+echo "I am function f1"
+}
+f2()
+{
+echo "i am in f2 function"
+f1
+}
+f1
+f2
